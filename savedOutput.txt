@@ -1,0 +1,8 @@
+             Array Length           Insertion Sort               Merge Sort                Heap Sort    Randomized Quick Sort
+                       10         00h:00m:00s:01ms         00h:00m:00s:01ms         00h:00m:00s:01ms         00h:00m:00s:00ms
+                      100         00h:00m:00s:00ms         00h:00m:00s:00ms         00h:00m:00s:01ms         00h:00m:00s:00ms
+                     1000         00h:00m:00s:02ms         00h:00m:00s:00ms         00h:00m:00s:00ms         00h:00m:00s:00ms
+                    10000         00h:00m:00s:39ms         00h:00m:00s:01ms         00h:00m:00s:03ms         00h:00m:00s:02ms
+                   100000         00h:00m:04s:41ms         00h:00m:00s:20ms         00h:00m:00s:24ms         00h:00m:00s:13ms
+                  1000000        00h:07m:30s:225ms        00h:00m:00s:219ms        00h:00m:00s:375ms        00h:00m:00s:141ms
+                 10000000 	     09h:51m:35s:356ms        00h:00m:02s:265ms        00h:00m:04s:225ms        00h:00m:01s:765ms
